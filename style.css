@@ -16,7 +16,7 @@ body {
     padding: 20px 50px 20px 50px;
     justify-content: center;
     text-align: center;
-    border: 1px solid rgb(0, 0, 0);
+    <!--border: 1px solid rgb(0, 0, 0);-->
 
     background-color: rgba(255, 255, 255, 0.842);
     height: 100vh;
