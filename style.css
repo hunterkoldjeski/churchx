@@ -1,5 +1,5 @@
 * {
-
+    <--border: 1px red solid;-->
     box-sizing: border-box;
 }
 
@@ -33,4 +33,21 @@ p {
     font-size: large;
     max-width: 500px;
 
+}
+
+.applybutton {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 50px;
 }
