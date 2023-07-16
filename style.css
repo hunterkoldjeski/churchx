@@ -15,7 +15,7 @@ body {
 .container {
     padding: 20px 50px 20px 50px;
     justify-content: center;
-    text-align: center;
+    text-align: left;
     background-color: rgba(255, 255, 255, 0.842);
     height: 100vh;
     <-- overflow: scroll;
@@ -29,9 +29,9 @@ body {
 
 
 p {
-    font-weight: bold;
+    font-weight: normal;
     font-size: large;
-    max-width: 500px;
+    max-width: 750px;
 
 }
 
@@ -39,6 +39,7 @@ p {
     display: inline-block;
     justify-content: center;
     text-align: center;
+    margin: 0px 20px 20px 0px;
 }
 
 button {
